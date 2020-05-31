@@ -1,0 +1,19 @@
+{
+    "name": "jweiquan/think-restful-interface-kit",
+    "description": "Restful Interface Kit for ThinkPHP.",
+    "type": "metapackage",
+    "require": {
+        "topthink/framework": "6.0"
+    },
+    "require-dev": {
+        "topthink/framework": "6.0"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "jweiquan",
+            "email": "jweiquan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

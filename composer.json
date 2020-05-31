@@ -15,5 +15,10 @@
             "email": "jweiquan@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "jweiquan\\RestfulInterfaceKit": "src/"
+        }
+    }
 }

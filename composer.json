@@ -3,10 +3,10 @@
     "description": "Restful Interface Kit for ThinkPHP.",
     "type": "metapackage",
     "require": {
-        "topthink/framework": "6.0.9"
+        "topthink/framework": "6.0.12"
     },
     "require-dev": {
-        "topthink/framework": "6.0.9"
+        "topthink/framework": "6.0.12"
     },
     "license": "Apache-2.0",
     "authors": [
